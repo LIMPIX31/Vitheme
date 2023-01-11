@@ -1,34 +1,17 @@
-<!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <!-- Unique identifier of the plugin. It should be FQN. It cannot be changed between the plugin versions. -->
     <id>Vitheme</id>
     <version>1.0.0</version>
-
-    <!-- Public plugin name should be written in Title Case.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-name -->
     <name>Vitheme</name>
     <category>UI</category>
-
-    <!-- A displayed Vendor name or Organization ID displayed on the Plugins Page. -->
     <vendor email="limpix31@gmail.com">Danil Karpenko</vendor>
-
-    <idea-version since-build="213" until-build="223.*"/>
-
-    <!-- Description of the plugin displayed on the Plugin Page and IDE Plugin Manager.
-         Simple HTML elements (text formatting, paragraphs, and lists) can be added inside of <![CDATA[ ]]> tag.
-         Guidelines: https://plugins.jetbrains.com/docs/marketplace/plugin-overview-page.html#plugin-description -->
+    <idea-version since-build="201" />
     <description><![CDATA[
     Unofficial Vitest theme.
 
     Write Vitest tests along with the corresponding theme
   ]]></description>
-
-
-    <!-- Product and plugin compatibility requirements.
-         Read more: https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html -->
     <depends>com.intellij.modules.platform</depends>
-
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="Vitheme" path="/theme/Vitheme.theme.json"/>
+        <themeProvider id="ad26d7ec-3b38-4160-bc59-4ab569b5da20" path="/Vitheme.theme.json"/>
     </extensions>
 </idea-plugin>
