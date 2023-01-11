@@ -1,9 +1,9 @@
 <scheme name="Vitheme" version="142" parent_scheme="Darcula">
   <metaInfo>
-    <property name="created">2023-01-11T20:23:03</property>
+    <property name="created">2023-01-11T20:59:35</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2022.2.3.0.0</property>
-    <property name="modified">2023-01-11T20:23:07</property>
+    <property name="modified">2023-01-11T20:59:39</property>
     <property name="originalScheme">Vitheme</property>
   </metaInfo>
   <colors>
@@ -158,7 +158,7 @@
     <option name="BOOKMARKS_ATTRIBUTES">
       <value>
         <option name="FONT_TYPE" value="1" />
-        <option name="ERROR_STRIPE_COLOR" value="dbdbdb" />
+        <option name="ERROR_STRIPE_COLOR" value="e2f0e2" />
       </value>
     </option>
     <option name="BREADCRUMBS_CURRENT">
