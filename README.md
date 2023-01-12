@@ -4,6 +4,7 @@
 <h6 align=center>Vitest like theme for VSCode and IntelliJ based IDEs</h6>
 <h1 align=center>Vitheme</h1>
 
-![изображение](https://user-images.githubusercontent.com/81296950/211918466-ed354e4e-7bae-4959-b64e-76f3fcb961c6.png)
+![изображение](https://user-images.githubusercontent.com/81296950/212167931-4f6d933a-bd7c-418f-a7cf-80a8cadf8849.png)
+
 
 <h1 align=center><a href="https://plugins.jetbrains.com/plugin/20842-vitheme">📥 Install<a/></h3>
