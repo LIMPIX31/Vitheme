@@ -11,7 +11,7 @@
     "exceptionForeground": "#5DA9A7",
     "highlightForeground": "#8b888f",
     "selectionBackground": "#363537",
-    "highlightedBackground": "#69676c",
+    "highlightedBackground": "#363537",
     "disabledBackground": "#191919",
     "disabledForeground": "#525053",
     "tint": "#1D1D1D",
@@ -57,7 +57,7 @@
     "Borders.ContrastBorderColor": "border",
     "Borders.color": "border",
     "Button": {
-      "arc": 0,
+      "arc": 6,
       "background": "background",
       "default": {
         "endBackground": "selectionBackground",
@@ -167,6 +167,7 @@
     "DragAndDrop": {
       "areaBackground": "background",
       "areaBorderColor": "background",
+      "borderColor": "background",
       "areaForeground": "foreground"
     },
     "Editor": {
@@ -707,10 +708,10 @@
       "Actions.Blue": "#7bd88f",
       "Actions.Green": "#80A665",
       "Actions.Grey": "#8b888f",
-      "Actions.GreyInline": "#69676c",
-      "Actions.GreyInline.Dark": "#f7f1ff",
-      "Actions.Red": "#fc618d",
-      "Actions.Yellow": "#5ad4e6",
+      "Actions.GreyInline": "#363537",
+      "Actions.GreyInline.Dark": "#e2f0e2",
+      "Actions.Red": "#E25A5A",
+      "Actions.Yellow": "#B8A965",
       "Checkbox.Background.Default": "#191919",
       "Checkbox.Background.Default.Dark": "#191919",
       "Checkbox.Background.Disabled": "#191919",
@@ -731,18 +732,18 @@
       "Checkbox.Border.Selected.Dark": "#80A665",
       "Checkbox.Foreground.Selected": "#80A665",
       "Checkbox.Foreground.Selected.Dark": "#80A665",
-      "Checkbox.Focus.Thin.Selected": "#f7f1ff",
-      "Checkbox.Focus.Thin.Selected.Dark": "#f7f1ff",
-      "Objects.Grey": "#69676c",
+      "Checkbox.Focus.Thin.Selected": "#e2f0e2",
+      "Checkbox.Focus.Thin.Selected.Dark": "#e2f0e2",
+      "Objects.Grey": "#363537",
       "Objects.Blue": "#7bd88f",
-      "Objects.RedStatus": "#fc618d",
-      "Objects.Red": "#fc618d",
-      "Objects.Pink": "#fc618d",
-      "Objects.Yellow": "#5ad4e6",
+      "Objects.RedStatus": "#E25A5A",
+      "Objects.Red": "#E25A5A",
+      "Objects.Pink": "#E25A5A",
+      "Objects.Yellow": "#B8A965",
       "Objects.Green": "#80A665",
       "Objects.Purple": "#fc618d",
-      "Objects.BlackText": "#f7f1ff",
-      "Objects.YellowDark": "#948ae3",
+      "Objects.BlackText": "#e2f0e2",
+      "Objects.YellowDark": "#BD976A",
       "Objects.GreenAndroid": "#80A665"
     }
   }
